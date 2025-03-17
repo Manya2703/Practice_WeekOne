@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/practice/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/practice/src/test/java" isTestSource="true" />
+    </content>
+  </component>
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="entityManagerFactory" />
+          <factory-entry name="practice" value="7bf29ceb-86bb-4ab6-bd88-1ee0ae312ca2" />
+        </datasource-mapping>
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+</module>
